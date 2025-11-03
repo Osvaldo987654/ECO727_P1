@@ -1,0 +1,15 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos de compilación de React
+frontend/node_modules/
+frontend/dist/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Configuraciones locales
+.env
+db.sqlite3
