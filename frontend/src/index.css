@@ -126,6 +126,7 @@ form textarea {
   border-radius: 6px;
 }
 
+
 form button {
   display: block;
   width: 100%;
@@ -137,10 +138,23 @@ form button {
   font-size: 1rem;
   cursor: pointer;
   transition: background 0.3s;
+  
 }
 
-form button:hover {
-  background-color: #007f6e;
+
+
+button {
+   display: block;
+  width: 100%;
+  background-color: #005f52;
+  color: white;
+  border: none;
+  padding: .2rem;
+  border-radius: 2px;
+  font-size: 1rem;
+  cursor: pointer;
+  
+  transition: background 0.3s;
 }
 
 /* ======== FOOTER ======== */
