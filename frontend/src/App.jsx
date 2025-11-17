@@ -30,7 +30,6 @@ function App() {
       <Gallery />
       <Testimonials />
       <ContactForm />
-
       <Footer />
     </>
   );
