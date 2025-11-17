@@ -5,7 +5,6 @@ import Gallery from './components/Gallery';
 import Testimonials from './components/Testimonials';
 import ContactForm from './components/ContactForm';
 import Footer from './components/Footer';
-import Canciones from './components/CancionList';
 
 function App() {
   return (
@@ -31,7 +30,6 @@ function App() {
       <Gallery />
       <Testimonials />
       <ContactForm />
-      <Canciones />
       <Footer />
     </>
   );
