@@ -6,7 +6,7 @@ export default function ContactForm() {
   const [mensaje, setMensaje] = useState("");
 
   const mailtoLink = `mailto:cifmosvaldo@gmail.com
-    ?subject=${encodeURIComponent("Contacto desde mi portafolio")}
+    ?subject=${encodeURIComponent("Comentario para la Estudiantina de la UPIICSA")}
     &body=${encodeURIComponent(
       `Hola, mi nombre es ${nombre}
 
