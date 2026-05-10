@@ -23,9 +23,9 @@ export default function Gallery() {
                 <video
                     className="video-gallery"
                     controls
-                    width="400"
+                    width="450"
                 >
-                    <source src="/assets/videos/Sierena_video.mp4" type="video/mp4" />
+                    <source src="/assets/videos/Sirena_video.mp4" type="video/mp4" />
                     Tu navegador no soporta videos.
                 </video>
 
